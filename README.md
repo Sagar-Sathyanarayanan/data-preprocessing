@@ -1,2 +1,2 @@
 # data-preprocessing
-When it comes to making a Machine Learning model, data preprocessing is the first and foremost step of the process.
+When it comes to making a Machine Learning model, data preprocessing is the first and foremost step of the process. Generally, real-world data is often incomplete, inconsistent, inaccurate, and often lacks specific attributes and trends the user is looking for. This is where data preprocessing enters the scenario. It helps to clean, format, and organize raw data which in turn makes it ready-to-go for Machine Learning models.
